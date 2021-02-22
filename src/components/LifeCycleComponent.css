@@ -1,0 +1,6 @@
+.LifeCycle{
+    border: 1px solid red;
+    height: 15vh;
+    align-items: center;
+    display: flex;
+}
